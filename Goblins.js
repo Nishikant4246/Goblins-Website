@@ -6,13 +6,13 @@ menu.onclick = () =>{
   navlist.classList.toggle('open');
 };
 
-const sr = ScrollRevel ({
+const effect = ScrollReveal ({
   distance: '65px',
-  duration: 1600,
+  duration: 2600,
   delay: 450,
   reset: true
 });
 
-sr.reveal('.hero-text', {delay:200, origin:'top'});
-sr.reveal('.hero-img', {delay:450, origin:'top'});
-sr.reveal('.icons', {delay:500, origin:'left'});
+effect.reveal('.hero-text', {delay:200, origin:'top'});
+effect.reveal('.hero-img', {delay:450, origin:'top'});
+effect.reveal('.icons', {delay:500, origin:'left'});
