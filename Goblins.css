@@ -27,6 +27,8 @@
 }
 #iamheader ul{
   display: flex;
+  border-radius:16px ;
+  /* box-shadow: 2px 2px #6fa86f; */
 }
 .navlist a{ 
   color: white;
@@ -46,6 +48,12 @@
   cursor: pointer;
   display: none;
 }
+
+#menu-icon:hover{
+  color:#3f3f46;
+  border: 2px solid #186409;
+}
+
 .hero{
   height: 100%;
   width: 100%;
