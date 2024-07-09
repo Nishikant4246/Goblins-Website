@@ -5,5 +5,6 @@ This is a simple Goblins Interface to acheive a attractive web page and transiti
 
 ## 🚀 To Clone a Repository (For better experience)
 
-## 🔗 Link:- (https://github.com/Nishikant4246/Goblins-Website.git)
+## 🔗 Link:- (git clone "https://github.com/Nishikant4246/Goblins-Website.git")
+
 
